@@ -1,4 +1,27 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+
 body {
     background: #272727;
     color: #fff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+div.container {
+    background: #5d3a3a;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+}
+
+.square {
+    background: #b5e0ba;
+    height: 200px;
+    width: 200px;
 }
